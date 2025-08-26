@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Task Decomposer AI",
+  "description": "An application that uses AI to break down a large task into smaller, manageable steps. Input a single-line task, and the app will generate a detailed checklist with step-by-step cards and a copyable list, all in Korean.",
+  "requestFramePermissions": []
+}
